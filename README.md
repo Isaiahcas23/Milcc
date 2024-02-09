@@ -1,1 +1,2 @@
 # Milcc
+print("Hello World")
